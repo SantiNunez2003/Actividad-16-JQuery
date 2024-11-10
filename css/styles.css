@@ -1,0 +1,51 @@
+
+
+/*Act. 10*/
+.titulo
+{
+  font-family:arial;
+  font-weight: normal;
+  background-color: #6495ed;
+  color:#ff0;
+}
+
+.cuerpo {
+  border: 1px solid #000;
+  padding: .5em;
+  background-color:#ed8f63;
+  width:100px;
+  text-align:center;
+}
+
+/*Act. 14 y 16*/
+#recuadro, #recuadro2 {
+    background-color:#b7effd;
+    width: 800px;
+    height:70px;
+    border: 2px #000  solid;
+}
+
+.enmarcado {
+    background-color:#ffffcc;
+    font-family:verdana;
+    font-size:14px;
+  
+    border-top-width:1px;
+    border-right-width:3px;
+    border-bottom-width:3px;
+    border-left-width:1px;
+  
+    border-top-style:dotted;
+    border-right-style:solid;
+    border-bottom-style:solid;
+    border-left-style:dotted;
+  
+    border-top-color:#ffaa00;
+    border-right-color:#ff0000;
+    border-bottom-color:#ff0000;
+    border-left-color:#ffaa00;
+  }
+  #descripcion2 ,#descripcion4, #descripcion6{
+    display:none;
+  }
+
